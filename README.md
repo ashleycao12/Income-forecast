@@ -1,5 +1,8 @@
+# About
+The script use Python to simplify complicated calculation.
+Package use: Pandas, openpyxl, numpy
 # What the script does - Summary
-* Import Excel sheet to pandas dataframe
+* Import data from Excel sheet to pandas dataframe
 * Create many lists of calendar dates that fit multiple criteria. 
 * Perform calculation
 * Export result to excel
